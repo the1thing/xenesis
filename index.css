@@ -1,0 +1,37 @@
+body {
+   overflow-x: hidden;
+   background-color: black;
+   margin: 0;
+  
+   position: relative;
+   } 
+   body,
+   html {
+    height: 100%;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+   }
+.animation-window{
+   width: 100vw !important;
+   height: 100vh !important;
+   max-width: 100% !important;
+   max-height: 100% !important;
+}
+.animation-second-window{
+    width: 100vw !important;
+    height: 100vh !important;
+    max-width: 100% !important;
+    max-height: 100% !important;
+ }
+.logo-img{
+    position: absolute;
+    top: 80px;
+    right: 42%;
+    z-index: 2;
+    width: 173.847px;
+height: 38.468px;
+}
+
+   
+   
